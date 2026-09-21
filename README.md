@@ -10,13 +10,21 @@ It is fully server-side. You do not need to install Battery Guard on the client 
 ## Commands
 
 /bat - Show the battery level.
+
 /batteryguard status - Show battery status.
+
 /batteryguard check - Check the battery now.
+
 /batteryguard add <player> - Allow a player to use the read-only commands.
+
 /batteryguard remove <player> - Remove a player from the allowed list.
+
 /batteryguard list - Show allowed players.
+
 /batteryguard reload - Reload the configuration.
+
 /batteryguard cancel - Cancel a shutdown countdown.
+
 /batteryguard shutdown - Start a server shutdown countdown.
 
 ## Language
