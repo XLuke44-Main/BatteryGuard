@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "batteryguard",
+    "name": "Battery Guard",
+    "description": "Monitors the Windows host battery and gracefully stops the Minecraft server before critical power loss.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "serverSideOnly": true,
+    "acceptableRemoteVersions": "*",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["BatteryGuard"],
+    "credits": "Forge and Minecraft Forge",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      "required-after:forge@14.23.5.2859"
+    ]
+  }
+]
