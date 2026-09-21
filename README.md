@@ -1,11 +1,11 @@
 # Battery Guard
 
-Battery Guard watches the battery of the laptop running the minecraft server it's on.
+Battery Guard watches battery of the laptop running the minecraft server it's on.
 
-When the battery gets low, it warns everyone on the server. 
+When the battery is low, it warns everyone on the server. 
 By default, at 10% it starts a 30-second countdown and then safely stops it.
 
-It is fully server-side. You do not need to install Battery Guard on the client for it to work.
+It is fully server-side. You do not need to install it on the client for it to work.
 
 ## Commands
 
